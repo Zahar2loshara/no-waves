@@ -1,0 +1,20 @@
+{
+  "type": "PowerTurret",
+  "name": "/kill",
+  "description": "Empty",
+  "size": 1, 
+  "shootType": {
+    "type": "LightningBulletType",
+    "damage": 999999
+  },
+  "range": 999999, 
+  "reload": 0.01, 
+  "consumes": {
+    "power": 0.01 
+  },
+  "category": "turret",
+  "research": "duo",
+  "requirements": [
+   "copper/0"
+ ]
+}
