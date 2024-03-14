@@ -1,7 +1,7 @@
 {
   "type": "PowerTurret",
   "name": "/kill",
-  "description": "Empty",
+  "description": "/kill @e, Kills every enemy in not big radius",
   "size": 1, 
   "shootType": {
     "type": "LightningBulletType",
@@ -10,7 +10,7 @@
   "range": 999999, 
   "reload": 0.01, 
   "consumes": {
-    "power": 0.01 
+    "power": 0 
   },
   "category": "turret",
   "research": "duo",
