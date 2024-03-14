@@ -1,9 +1,9 @@
 displayName: No waves
-name: "No waves"
+name: "no-waves"
 author: Zahar1loshara
 description: '''
 Add hyper turret for claiming sector
 Use if you more casual player and want just farming, not defeating
 '''
-version: 1.0
+version: 1.0.0
 minGameVersion: 136
